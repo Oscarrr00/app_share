@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "799370682915",
+    "project_id": "practice-29ae7",
+    "storage_bucket": "practice-29ae7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799370682915:android:7826c1b8666617d0894796",
+        "android_client_info": {
+          "package_name": "mx.iteso.foto_share_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799370682915-u3joq9n74ffdnbepf20oa59q1i30iids.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mx.iteso.foto_share_app",
+            "certificate_hash": "2c7d9d66b9ee168e3d8b9b475c1bbdc122ef4970"
+          }
+        },
+        {
+          "client_id": "799370682915-enasvig8aq1akb3ok5hq3857ja79sebg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDobrfdQWTVNXq_pS9_vm4NKpObKBI949s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799370682915-enasvig8aq1akb3ok5hq3857ja79sebg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
